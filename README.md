@@ -12,4 +12,4 @@ My motivation to undertake it was making a game as way to have fun while learnin
 Project is: In progress
 
 ## Acknowledgements
-- This project was based on [this book](https://ehmatthes.github.io/pcc_2e/regular_index/).
+- This project was based on tutorial from [this book](https://ehmatthes.github.io/pcc_2e/regular_index/).
