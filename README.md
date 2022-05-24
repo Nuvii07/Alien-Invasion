@@ -5,7 +5,7 @@ Simple game in Python. The player controls a rocket ship and shoot bullets.
 My motivation to undertake it was making a game as way to have fun while learning a language.
 
 ## Technologies used
-- Python 3.8.10,
+- Python 3.8.10
 - PyGame library
 
 ## Project Status
